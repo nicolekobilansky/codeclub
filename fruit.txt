@@ -1,0 +1,5 @@
+apple
+pear
+chocolate
+kiwi
+banana
