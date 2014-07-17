@@ -4,3 +4,4 @@ chocolate
 kiwi
 banana
 orange
+cherry
